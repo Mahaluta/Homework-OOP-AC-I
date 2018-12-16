@@ -1,0 +1,9 @@
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+E:\Wantsome\Homework-OOP-Inheritance-Abstract-Classes\Animals-Hierarchy\AnimalsHierarchy\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
